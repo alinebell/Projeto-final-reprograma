@@ -1,0 +1,18 @@
+.headerContainer{
+    background-color: #de913e;
+    display: flex;
+    flex-direction: center;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    padding: 6rem;
+}
+
+.headerTitle{
+    font-size: 4rem;
+    color:#FFF;
+}
+
+.headerImage{
+    width: 40%
+}
