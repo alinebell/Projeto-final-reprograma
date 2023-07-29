@@ -2,7 +2,7 @@
 
 <h1  align="center">
 
-<img src="https://i.gifer.com/McN.gif" alt="gif my little pony rainbowndash" width="500"> 
+<img src="/src/assets/McN.gif" alt="gif my little pony rainbowndash" width="500"> 
 
 </h1>
 
@@ -13,7 +13,7 @@
 <p> Sou mãe, mulher,negra, recifense e desenvolvedora Front End em busca da minha primeira oportunidade de trabalho como desenvolvedora :)
 </p>
 
-<img src='./assets/foto_aline.jpg' width=500 alt='foto de Aline Beltrão'>
+<img src='/scr/assets/foto_aline.jpg' width=500 alt='foto de Aline Beltrão'>
 
 [Aline Beltrão](https://www.linkedin.com/in/alinebeltrao/)
 
