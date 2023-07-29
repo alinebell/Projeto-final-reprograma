@@ -13,7 +13,7 @@
 <p> Sou mãe, mulher,negra, recifense e desenvolvedora Front End em busca da minha primeira oportunidade de trabalho como desenvolvedora :)
 </p>
 
-<img src='/src/assets/foto_aline.jpg' width=500 alt='foto de Aline Beltrão'>
+<img src='/src/assets/foto_aline.jpeg' width=500 alt='foto de Aline Beltrão'>
 
 [Aline Beltrão](https://www.linkedin.com/in/alinebeltrao/)
 
