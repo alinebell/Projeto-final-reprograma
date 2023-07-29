@@ -13,7 +13,7 @@
 <p> Sou mãe, mulher,negra, recifense e desenvolvedora Front End em busca da minha primeira oportunidade de trabalho como desenvolvedora :)
 </p>
 
-<img src='/scr/assets/foto_aline.jpg' width=500 alt='foto de Aline Beltrão'>
+<img src='/src/assets/foto_aline.jpg' width=500 alt='foto de Aline Beltrão'>
 
 [Aline Beltrão](https://www.linkedin.com/in/alinebeltrao/)
 
@@ -129,3 +129,10 @@ Siga os passos e inclua as informações abaixo:
 "Toda vez que uma mulher se defende, sem nem perceber que isso é possível, sem qualquer pretensão, ela defende todas as mulheres." - Maya Angelou
 
 "Agradeço a {reprograma}, às minhas professoras Lilit, Ana, Rocks e Thielle, à facilitadora Mari, e todas as monitoras que nos auxiliaram no percurso. Agradeço por último, mas não menos importante a todas as colegas da turma On23 que nos auxiliaram em códigos, em incentivo, com um abraço virtual ou dando um conselho valioso." - Aline Beltrão
+
+<br  />
+Até mais, foi muito legal passar esses meses com vocês!
+
+<img src='/src/assets/dolphins.gif' width=500 alt='gif golfinhos do filme guia do mochileiro das galáxias dizendo: so long and thanks forall the fishes'>
+
+
