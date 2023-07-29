@@ -1,4 +1,6 @@
 import React, { useState} from 'react'
+import database from '../service/firebase'
+import {ref, push, set} from 'firebase/database'
 import Header from '../components/Header'
 import contato from '../assets/contato.svg'
 import styles from '../styles/pages/contato.module.css'
@@ -22,8 +24,14 @@ const Contato = () => {
 
   function handleSubmit(e){
     e.preventDefault()
-    console.log(nome, 
-      email, mensagem)
+    
+    const messageListRef = ref(database, 'mensagens')
+    const newMessageRef = push(messageListRef) 
+    set(newMessageRef, {
+      nome: nome,
+      email: email,
+      texto: mensagem
+    })
   }
 
   return (
