@@ -1,3 +1,4 @@
+import React, { useState} from 'react'
 import Header from '../components/Header'
 import contato from '../assets/contato.svg'
 import styles from '../styles/pages/contato.module.css'
@@ -19,13 +20,19 @@ const Contato = () => {
     setMensagem(e.target.value)
   }
 
+  function handleSubmit(e){
+    e.preventDefault()
+    console.log(nome, 
+      email, mensagem)
+  }
+
   return (
     <>
       <Header title="Nosso Contato" 
       image={contato} 
       />
       <main>
-        <form className={styles.form} onSubmit={()=>{}}>
+        <form className={styles.form} onSubmit={handleSubmit}>
           <input 
           className={styles.formInput}
           type="text"

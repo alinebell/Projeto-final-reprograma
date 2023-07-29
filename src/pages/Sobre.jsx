@@ -7,8 +7,6 @@ const Sobre = () => {
     <>
       <Header title="Sobre o projeto" image={sobre} />
       <h2>Parágrafo Lorem impsum</h2>
-
-      <Card />
     </> 
     
   )
