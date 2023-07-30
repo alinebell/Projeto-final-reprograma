@@ -130,9 +130,11 @@ Siga os passos e inclua as informações abaixo:
 
 "Agradeço a {reprograma}, às minhas professoras Lilit, Ana, Rocks e Thielle, à facilitadora Mari, e todas as monitoras que nos auxiliaram no percurso. Agradeço por último, mas não menos importante a todas as colegas da turma On23 que nos auxiliaram em códigos, em incentivo, com um abraço virtual ou dando um conselho valioso." - Aline Beltrão
 
+<footer align="center">
 <br  />
 Até mais, foi muito legal passar esses meses com vocês!
-
-<img src='/src/assets/dolphins.gif' width=500 alt='gif golfinhos do filme guia do mochileiro das galáxias dizendo: so long and thanks forall the fishes'>
+<br  /><br  />
+<img src='/src/assets/dolphins.gif' width=800 alt='gif golfinhos do filme guia do mochileiro das galáxias dizendo: so long and thanks forall the fishes'>
+</footer>
 
 

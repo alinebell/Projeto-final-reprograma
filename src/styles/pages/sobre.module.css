@@ -1,0 +1,16 @@
+
+.lista{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-block: 1rem;
+}
+
+.texto{
+    align-items: center;
+    justify-content: center;
+    margin:30px;
+}
