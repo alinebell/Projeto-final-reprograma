@@ -1,6 +1,4 @@
 import React, { useState} from 'react'
-import database from '../service/firebase'
-import {ref, push, set} from 'firebase/database'
 import Header from '../components/Header'
 import contato from '../assets/contato.svg'
 import styles from '../styles/pages/contato.module.css'
@@ -22,7 +20,11 @@ const Contato = () => {
     setMensagem(e.target.value)
   }
 
-  function handleSubmit(e){
+  const handleSubmit = (event) => {
+    // Deixar vazio, sem implementar nenhuma ação
+  };
+
+  /*function handleSubmit(e){
     e.preventDefault()
     
     const messageListRef = ref(database, 'mensagens')
@@ -32,7 +34,7 @@ const Contato = () => {
       email: email,
       texto: mensagem
     })
-  }
+  }*/
 
   return (
     <>
